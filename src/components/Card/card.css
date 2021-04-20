@@ -1,9 +1,6 @@
 .card {
-    /* border: 2px black solid; */
     border-radius: 10px;
     background-color: #ebecf0;
-    /* width: 600px; */
-    /* height: 200px; */
     margin: 20px;
     box-shadow: 4px 4px 6px 1px black;
     padding: 20px;
