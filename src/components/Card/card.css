@@ -1,0 +1,54 @@
+.card {
+    /* border: 2px black solid; */
+    border-radius: 10px;
+    background-color: #ebecf0;
+    /* width: 600px; */
+    /* height: 200px; */
+    margin: 20px;
+    box-shadow: 4px 4px 6px 1px black;
+    padding: 20px;
+}
+
+.formContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+select {
+    margin: 10px;
+    font-size: 20px;
+}
+
+input {
+    margin-bottom: 10px;
+    height: 22px;
+    width: 300px;
+    font-size: 20px;
+}
+
+.btn {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 4px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    transition: 0.5s;
+}
+.btn:hover {
+    background-color:rgb(213, 213, 213)
+}
+.optionContainer {
+    display: flex;
+    align-items: center;
+}
+
+label {
+    font-size: 20px;
+}
+
